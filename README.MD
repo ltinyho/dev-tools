@@ -14,3 +14,17 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 ```shell
 sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 ```
+
+
+#### 剪切板工具
+
+[Paste](https://pan.baidu.com/s/116tLnJ8WIBEfgyWEg2dC9Q) 解压密码 `xclient.info`
+
+
+#### 文档工具
+
+[Dash](https://pan.baidu.com/s/11OhN4Dg1XvKN9EQA61ZzzQ) 解压密码 `xclient.info`
+
+
+####  抓包工具
+[charles](https://pan.baidu.com/s/1SeCIsF-zcl23rNLRpbQYpA)

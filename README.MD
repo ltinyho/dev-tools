@@ -33,3 +33,11 @@ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/to
 #### 磁盘工具
 
 [NTFS读写工具](https://pan.baidu.com/s/1hgV8V45j3u4Fwf7Kas7aiA)
+
+#### 图片浏览
+
+[ApolloOne](https://pan.baidu.com/s/12CArzw0L7wn-2fWwGrMIcQ)
+
+#### 录屏工具
+
+`Mac` 自带的 `QuickTimePlayer`

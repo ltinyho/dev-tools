@@ -1,15 +1,23 @@
 `Mac` 工具集合
 
-## 终端
+#### 梯子
+[ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+
+#### docker
+
+[docker desktop for mac](https://docs.docker.com/docker-for-mac/install/)
+
+
+#### 终端
 [iterm2](https://www.iterm2.com/downloads.html)
 
-### [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-#### via curl
+##### [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+##### via curl
 ```shell
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
-#### via wget
+##### via wget
 
 ```shell
 sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"

@@ -7,6 +7,9 @@
 
 [docker desktop for mac](https://docs.docker.com/docker-for-mac/install/)
 
+#### host管理工具 
+
+[SwitchHosts](https://github.com/oldj/SwitchHosts/releases)
 
 #### 终端
 [iterm2](https://www.iterm2.com/downloads.html)

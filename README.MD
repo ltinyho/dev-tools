@@ -52,3 +52,5 @@ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/to
 #### 录屏工具
 
 `Mac` 自带的 `QuickTimePlayer`
+#### GIF 软件
+[giphy capture](https://giphy.com/apps/giphycapture)

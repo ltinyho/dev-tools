@@ -87,6 +87,14 @@ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/to
 -  [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
 -  history
 -  last-working-dir 打开终端默认进入上次关闭的目录
+#### 命令行学习工具
+```bash
+man cmd
+help cmd
+info cmd
+```
+通过命令行使用例子了解使用方法
+[cheat](https://github.com/cheat/cheat)
 
 #### 剪切板工具
 

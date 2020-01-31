@@ -31,7 +31,7 @@
 - cookie 管理 [editthiscookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 - 代理管理 [SwitchyOmega](https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif)
 - 标签管理 [Toby](https://chrome.google.com/webstore/detail/hddnkoipeenegfoeaoibdmnaalmgkpip) [预览](https://i.loli.net/2019/08/07/1msdZnAHxIqBEjv.png)
-
+- 网页标记注释 [collamark](https://chrome.google.com/webstore/detail/collamark/kbpjikgngikhhpbjddnenemoonpbfikm)
 ### `Mac` 工具集合
 
 #### 梯子

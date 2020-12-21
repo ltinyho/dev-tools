@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <img src="https://storageapi.oss-cn-zhangjiakou.aliyuncs.com/rmi/bike/pic/bf77ecd2-44ea-4229-8a5f-943127a70437.jpg"
+        alt="" onclick="down()">
+    <script>
+
+
+        function down() {
+            console.log(this);
+            downloadImage("https://storageapi.oss-cn-zhangjiakou.aliyuncs.com/rmi/bike/pic/bf77ecd2-44ea-4229-8a5f-943127a70437.jpg", "kaldf.png")
+        }
+
+        function download(href, name) {
+            let eleLink = document.createElement('a')
+            eleLink.download = name
+            eleLink.href = href
+            eleLink.click()
+            eleLink.remove()
+        }
+        function downloadImage(url, name) {
+            let image = new Image()
+            image.setAttribute('crossOrigin', 'anonymous')
+            image.src = url
+            console.log(image, "image")
+            image.onload = () => {
+                let canvas = document.createElement('canvas')
+                canvas.width = image.width
+                canvas.height = image.height
+                let ctx = canvas.getContext('2d')
+                ctx.drawImage(image, 0, 0, image.width, image.height)
+                canvas.toBlob((blob) => {
+                    console.log(blob, "blob")
+                    let url = URL.createObjectURL(blob)
+                    console.log(url);
+                    download(url, name)
+                    // 用完释放URL对象
+                    URL.revokeObjectURL(url)
+                })
+            }
+        }
+    </script>
+</body>
+
+</html>

@@ -85,6 +85,7 @@ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/to
 -  docker
 -  docker-compose
 -  [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+-  [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 -  history
 -  last-working-dir 打开终端默认进入上次关闭的目录
 #### 命令行学习工具

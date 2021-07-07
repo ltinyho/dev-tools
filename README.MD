@@ -17,6 +17,7 @@
             * [图片浏览](#图片浏览)
             * [录屏工具](#录屏工具)
             * [GIF 软件](#gif-软件)
+            * [截图工具](#snipaste)
          * [idea 使用](#idea-使用)
             * [快捷键](#快捷键-1)
             * [自定义宏](#自定义宏)
@@ -124,6 +125,8 @@ info cmd
 `Mac` 自带的 `QuickTimePlayer`
 #### GIF 软件
 [giphy capture](https://giphy.com/apps/giphycapture)
+#### snipaste
+[snipaste](https://www.snipaste.com/)
 
 ### idea 使用
 #### 快捷键

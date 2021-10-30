@@ -141,4 +141,5 @@ info cmd
 - [画图/脑图工具](https://www.processon.com/i/5894990ce4b0c87c63ddb002)
 - [图床](https://sm.ms/)
 - [k8s ide](https://github.com/lensapp/lens/releases)
-- [find 命令行](https://github.com/junegunn/fzf)
+- [fzf find 命令行](https://github.com/junegunn/fzf)
+- [fx json viewer](https://github.com/antonmedv/fx)

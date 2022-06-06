@@ -128,7 +128,8 @@ info cmd
 [giphy capture](https://giphy.com/apps/giphycapture)
 #### snipaste
 [snipaste](https://www.snipaste.com/)
-
+#### 分屏软件
+[rectangle](https://rectangleapp.com/)
 ### idea 使用
 #### 快捷键
 - extend selection 扩选
